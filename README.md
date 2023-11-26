@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Bianqaa :3
-- 👀 I’m interested in cats, food and.. oh, yes cybersecurity and software development 😁
 - 🌱 I’m currently learning JAVA 
 - 💞️ I’m looking to collaborate on interesting projects with other developers to add experience together ❤️
 - 📫 How to reach me: 

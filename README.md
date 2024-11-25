@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bianqaa :3
-- 🌱 I’m currently learning JAVA 
+- 🌱 I’m currently studying software development
 - 💞️ I’m looking to collaborate on interesting projects with other developers to add experience together ❤️
 - 📫 How to reach me: 
 -         My Linkedin: linkedin.com/in/bianqaa
